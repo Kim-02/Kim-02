@@ -1,16 +1,20 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=Waving&text=Hello)
 
-<!--
-**Kim-02/Kim-02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### :wave: My github profile !
 
-Here are some ideas to get you started:
+<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
+<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white">
+<img src="https://img.shields.io/badge/Python-007396?style=for-the-badge&logo=Python&logoColor=white">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+<br/>
+
+#### :pencil: Study log
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kim-02)](https://github.com/Kim-02/github-readme-stats)
+
+#### My history :)
+<br/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kim-02&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
