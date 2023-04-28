@@ -12,9 +12,13 @@
 
 #### :pencil: Study log
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kim-02)](https://github.com/Kim-02/github-readme-stats)
-
-#### My history :)
+<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kim-02&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kim-02&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+#### My history :)
+
+#### <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white"/><img src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white"/> (2022~2023) In Army
+<br/>
+
 
