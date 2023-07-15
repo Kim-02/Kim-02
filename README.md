@@ -18,7 +18,7 @@
 
 #### My history :)
 
-#### <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white"/><img src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white"/> (2022~2023) In Army
+* #### <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white"/><img src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white"/> (2022~2023) In Army
 <br/>
 
 
