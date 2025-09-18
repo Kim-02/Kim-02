@@ -12,10 +12,8 @@
 <br/>
 
 #### :pencil: Study log
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kim-02)](https://github.com/Kim-02/github-readme-stats)
-<br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kim-02&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<br/>
+velog
+https://velog.io/@swnote_02/posts
 
 #### My history :)
 
